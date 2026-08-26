@@ -16,7 +16,7 @@ class Main{
             }
             else{
                 System.out.println(arr[i]+ " -> "+count);
-                count++;
+                count=1;
             }
             
         }
